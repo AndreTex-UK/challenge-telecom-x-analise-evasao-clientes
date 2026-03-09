@@ -29,5 +29,4 @@ Este projeto faz parte do Desafio de Data Science do Programa ONE (Oracle Next E
 2. O arquivo `Desafio_Telecom_X.ipynb` contém todo o código e a análise detalhada.
 3. Para executar, basta abrir o notebook em um ambiente como o Google Colab ou Jupyter Notebook.
 
----
-*Projeto desenvolvido por Sueli Hora - https://www.linkedin.com/in/sueli-da-hora/
+
